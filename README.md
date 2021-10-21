@@ -1,1 +1,1 @@
-This is my first web project from the odin project.  This is my first attempt at building a basic website using html.
+This is my first attempt at using HTML for creating a webiste on The Odin Project.
