@@ -1,1 +1,1 @@
-This is my first attempt at using HTML for creating a webiste on The Odin Project.
+This is my first attempt at using HTML for creating a website on The Odin Project.
